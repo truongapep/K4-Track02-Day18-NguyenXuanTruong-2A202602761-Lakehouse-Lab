@@ -1,0 +1,5 @@
+- **Họ và tên:** Nguyễn Xuân Trường
+- **MSSV:** 2A202602761
+- **Mã lab:** K4-Track02-Day18
+- **Đường chạy:** Lightweight (Không Spark)
+- **Môi trường:** Python 3.11.6, Windows
